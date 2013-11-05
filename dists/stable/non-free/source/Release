@@ -1,0 +1,7 @@
+Archive: stable
+Version: 0.4
+Component: non-free
+Origin: Spotify LTD
+Label: Spotify Public Repository
+Architecture: source
+Description: Spotify's repository for the desktop client and libspotify

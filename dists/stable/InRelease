@@ -1,0 +1,53 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: Spotify LTD
+Label: Spotify Public Repository
+Suite: stable
+Codename: stable
+Version: 0.4
+Date: Thu, 10 Oct 2013 12:03:59 UTC
+Architectures: amd64 i386
+Components: non-free
+Description: Spotify's repository for the desktop client and libspotify
+MD5Sum:
+ d479c2e672fe387ce1863ccd483099f8 2605 non-free/binary-amd64/Packages
+ 378240eec78ca3c7ec240fb7b4c7c4a6 941 non-free/binary-amd64/Packages.gz
+ a6c45b9be906f8c19f07640f4087febd 194 non-free/binary-amd64/Release
+ e38f7f9ca881507513abd6a8d76f1b82 2602 non-free/binary-i386/Packages
+ 16e6619b0f1fc1aa23443e53898480ec 943 non-free/binary-i386/Packages.gz
+ 785b7fb0dec7c312ddf42104717d1398 193 non-free/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
+ 99cacf92f4e693613ca73e8f517fe28f 195 non-free/source/Release
+SHA1:
+ 618541405ec063c2b85060b72a2a06208c39ad41 2605 non-free/binary-amd64/Packages
+ 7e49133a3b6ac1adeece316f27f55e3ebb4ec0d6 941 non-free/binary-amd64/Packages.gz
+ 65ef4778dd3bdf44e346182ebf9903085cb60580 194 non-free/binary-amd64/Release
+ c22ed38db57bf2373f07373eabc3ad09bf8b654a 2602 non-free/binary-i386/Packages
+ 4fbe92015b31b1faf785a4102112725133778926 943 non-free/binary-i386/Packages.gz
+ a93993ea74a999eba65edb69448343a71b59190e 193 non-free/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
+ 57be6a9f982604d89187d488884e2cac7eeb1857 195 non-free/source/Release
+SHA256:
+ 36f8274611957885060c4d5b182ffd95e81ea16bb8af3b5a68f348f2360e8faa 2605 non-free/binary-amd64/Packages
+ a70f21d1682e4c3e472dc04f09e96519b83f548875ee7e1798b94da86e72f6ca 941 non-free/binary-amd64/Packages.gz
+ 598c675a10b51b4640348b31fdb1f079a63b30aaf12334373cb9b48e0838caa1 194 non-free/binary-amd64/Release
+ b87acf77b963ebe49f80300d13e0b9fa4ce127d7f896042b5196346df7f91c66 2602 non-free/binary-i386/Packages
+ 5908389286b4e453ef669c07c57d578c9a7af62d99d7e24eaccd2330f113539d 943 non-free/binary-i386/Packages.gz
+ 2a483d7ba5f849cd9be832a0a1afb09a2862c6645fab96df0cd0a8cc36227849 193 non-free/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
+ e4f962dcbc020b3c8e12c638a5b89bffc5823aa3279c6c3879becd702fb5a596 195 non-free/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSVpevAAoJEAgszt+UVY9ZprgH/jxnv+6yxgstJv/iRB3ZcFTD
+cUWTMqSLA1aylxSavtvmYFzAukYfRp9kqxA3mHExQ01WEV7gg2GtTAYsQqectGDW
+eZrEFmLMx/McSGfBBLGnZXgltfOUYFrHU8OpxwqDsdw/JsbM6MC0Kl5g6MgQT1Bj
+4FY2CNeqQp/Ar9Lrbe51QbsJChZxaoj8S6N+2tp1ql+cE208b6UB1S7wn/oEMfyp
+1WQHfrYzbJl3MYEg2NJuvY66KA5WKSXMGf0qGCGugvNQ/tN06mRTNEtzNCNQNfAE
+C5jS/ybR6mnZDzHOkF3Ghj4sqNJQxZHxkIlTEunCbYzxSvTHUFsPl8LQzmL+rvs=
+=hxmh
+-----END PGP SIGNATURE-----
